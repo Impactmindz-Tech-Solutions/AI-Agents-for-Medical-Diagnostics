@@ -13,7 +13,7 @@ It is **not intended for clinical use**.
 
 ## ✨ What’s New (Latest Update)
 
-- Added **MIT License**  
+
 - Fixed bugs and updated `requirements.txt`  
 - Added `.gitignore`  
 - Upgraded core LLM to **GPT-5**  
@@ -53,7 +53,7 @@ The outputs are then combined and summarized into **three possible health issues
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/ahmadvh/AI-Agents-for-Medical-Diagnostics.git
+   git clone https://github.com/Impactmindz-Tech-Solutions/AI-Agents-for-Medical-Diagnostics.git
    cd AI-Agents-for-Medical-Diagnostics
    ```
 2. **Create a virtual environment and install dependencies:**
@@ -83,10 +83,3 @@ Planned improvements for upcoming versions include:
 - **Automated Testing**: Add evaluation pipelines and smoke-test CI with mocked LLM calls for reproducibility.  
 ---
 
-## 📜 License
-
-This repository is licensed under the **MIT License**.  
-
-You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions described in the [LICENSE](LICENSE) file.  
-
-The software is provided **“as is”**, without warranty of any kind.
